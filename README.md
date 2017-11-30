@@ -1,13 +1,12 @@
-## 小白学JavaScript
+## 美好的回忆
 
-学习JavaScript？请[点这里](https://js.xinshengdaxue.com/)访问主页
+该项目记录了一群小白学习js的过程，现封存该项目供所有人回忆。
 
-## 共建小白用的JavaScript技术文档
+感谢大家的努力
 
-1. 如果你发现文档有错误，请提交pull request给我，我会不胜感激。
-2. 如果你有好的总结，请提交pull request，并在文档的内容中注明你的身份。
-3. 该项目每天都在更新，在你进行提交之前，请先git pull一下，拉取最新的内容。
+请[点这里](https://js.7xinsheng.com/)访问我们的家！
 
+<<<<<<< HEAD
 ## 提交的文档review方式
 
 1. 必须使用md格式。
@@ -28,3 +27,5 @@
 我写了一个简单的脚本script/checkMyFile.js，有心的同学可以去看看这个脚本文件，运行一下。
 
 ##  我是小一，我来修改一下 readme.md文件，然后我要 git status 看一下有什么变动
+=======
+>>>>>>> upstream/master
